@@ -7,7 +7,7 @@
 ## I'm a Computer Systems Engineering student!!
 
 - 🔭 Im currently working on: [Health Ally API][repo1] and [Health Ally Front End][repo2]!
-[//]: # (- 🌱 I’m currently learning Electron apps development. 🤓)
+<!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch]. 
