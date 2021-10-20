@@ -6,8 +6,8 @@
 
 ## I'm a Computer Systems Engineering student!!
 
-- 🔭 Im currently working on: [Password Manager][repo]!
-- 🌱 I’m currently learning Electron apps development. 🤓
+- 🔭 Im currently working on: [Health Ally API][repo1] and [Health Ally Front End][repo2]!
+[comment]: <> (- 🌱 I’m currently learning Electron apps development. 🤓)
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch]. 
@@ -36,12 +36,13 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://image.flaticon.com/icons/png/512/0/337.png" />][webdevplaylist]
+[<img align="left" alt="Sails Js" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b4/SailsJS_logo.png" />][webdevplaylist]
 
 
 
 [website]: https://google.com
-[repo]: https://github.com/francklinmarroq/OpenPasswordManager
+[repo1]: https://github.com/Marroquin-Software/health-ally-API
+[repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw
 [twitch]: https://www.twitch.tv/roqued1
