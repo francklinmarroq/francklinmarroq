@@ -6,7 +6,7 @@
 
 ## I'm a Computer Systems Engineering student!!
 
-- 🔭 Im currently working on: [Health Ally API][repo1] and [Health Ally Front End][repo2]!
+- 🔭 Im currently working on: [Water Service Receipt API][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Create content for my [Youtube Channel][youtube].
@@ -41,7 +41,7 @@
 
 
 [website]: https://google.com
-[repo1]: https://github.com/Marroquin-Software/health-ally-API
+[repo1]: https://github.com/francklinmarroq/api-recibos-agua-inversiones-del-sol.git
 [repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw
