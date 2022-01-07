@@ -6,11 +6,12 @@
 
 ## I'm a Computer Systems Engineering student!!
 
-- 🔭 Im currently working on: [Water Service Receipt API][repo1]!
+- 🔭 Im currently working on: [POS System API][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: meet my 2021 goal :rofl:, create content for my [Youtube Channel][youtube].
-- ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch]. 
+- 🥅 2022 Goals: Complete the #100DaysOfCode challenge, create content for my [Youtube Channel][youtube] and write some blog entries along the way.
+- ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
+- 🎵 Here's my [playlist][musicplaylist] for coding. 🤣 
 
 ### Connect with me:
 
@@ -41,7 +42,7 @@
 
 
 [website]: https://google.com
-[repo1]: https://github.com/francklinmarroq/api-recibos-agua-inversiones-del-sol.git
+[repo1]: https://github.com/francklinmarroq/pos-api
 [repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw
@@ -52,3 +53,4 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
+[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXioPbx-1nXh2Sez0b7tcN_A&feature=share
