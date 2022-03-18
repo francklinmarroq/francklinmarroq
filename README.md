@@ -9,7 +9,7 @@
 - 🔭 Im currently working on: [2D Game][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Learn some Unity and create content for my [Youtube Channel][youtube].
+- 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
 - 🎵 Here's my [playlist][musicplaylist] for coding. 🤣 
 
