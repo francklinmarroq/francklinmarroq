@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
 
-## I'm a Computer Systems Engineering student!!
+## I'm an Games Development learner!!
 
 - 🔭 Im currently working on: [2D Game][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
