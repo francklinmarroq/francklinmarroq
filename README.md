@@ -1,4 +1,4 @@
-### Hi there, I'm Franklin - aka [Noob Developer][youtube] 👋
+### Hi there, I'm Franklin - aka [Marroquin][youtube] 👋
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjRvOg06DyetLSrLU3sdqzw?label=subscribe)](https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
@@ -6,7 +6,7 @@
 
 ## I'm a Computer Systems Engineering student!!
 
-- 🔭 Im currently working on: [POS System API][repo1]!
+- 🔭 Im currently working on: [A 2D Game][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Complete the #100DaysOfCode challenge, create content for my [Youtube Channel][youtube] and write some blog entries along the way.
@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="francklinmarroq | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
-[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin]
-[<img align="left" alt="francklinmarroq | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="francklinmarroq | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png?token=exp=1647587163~hmac=2b31e1a4edcc49a9e067a45f73b2991c" />][youtube]
+[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1647587227~hmac=2c95ae35b2dc0c52e19ea032ebc69ecd" />][twitter]
+<!-- [<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin] -->
+[<img align="left" alt="francklinmarroq | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
@@ -42,7 +42,7 @@
 
 
 [website]: https://google.com
-[repo1]: https://github.com/francklinmarroq/pos-api
+[repo1]: https://github.com/francklinmarroq/Bakers-Adventure
 [repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw
