@@ -42,7 +42,7 @@
 
 
 [website]: https://google.com
-[repo1]: https://github.com/francklinmarroq/Bakers-Adventure {target="_blank"}
+[repo1]: https://github.com/francklinmarroq/Bakers-Adventure [target="_blank"]
 [repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ
