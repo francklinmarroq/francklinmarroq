@@ -6,10 +6,10 @@
 
 ## I'm a Computer Systems Engineering student!!
 
-- 🔭 Im currently working on: [A 2D Game][repo1]!
+- 🔭 Im currently working on: [2D Game][repo1]!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Complete the #100DaysOfCode challenge, create content for my [Youtube Channel][youtube] and write some blog entries along the way.
+- 🥅 2022 Goals: Learn some Unity and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
 - 🎵 Here's my [playlist][musicplaylist] for coding. 🤣 
 
