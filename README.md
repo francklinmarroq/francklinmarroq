@@ -45,7 +45,7 @@
 [repo1]: https://github.com/francklinmarroq/Bakers-Adventure
 [repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
-[youtube]: https://www.youtube.com/channel/UCjRvOg06DyetLSrLU3sdqzw
+[youtube]: https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ
 [twitch]: https://www.twitch.tv/marroquingg
 [instagram]: https://www.instagram.com/marroquin_q/
 [linkedin]: https://www.linkedin.com/in/francklin-marroquin-quezada-a09159138/
