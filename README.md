@@ -1,6 +1,6 @@
 ### Hi there, I'm Franklin - aka [Marroquin][youtube] 👋
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
 
