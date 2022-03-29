@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="francklinmarroq | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1647587227~hmac=2c95ae35b2dc0c52e19ea032ebc69ecd" />][twitter]
+[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter]
 <!-- [<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin] -->
 [<img align="left" alt="francklinmarroq | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
