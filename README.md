@@ -6,7 +6,7 @@
 
 ## I'm a Game Development learner!!
 
-- 🔭 Im currently working on: 3D Survival came that currently have as private Repo 😂!
+- 🔭 Im currently working on: 3D Survival game (currently private repo) 😂!
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
