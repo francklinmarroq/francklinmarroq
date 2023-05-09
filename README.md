@@ -31,12 +31,11 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Ruby on Rails" width="26px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />][jsplaylist]
-
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
-[<img align="left" alt="Sails Js" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b4/SailsJS_logo.png" />][webdevplaylist]
+[<img align="left" alt="Sails Js" width="26px" src="https://seeklogo.com/images/S/sails-logo-7784E4A0F3-seeklogo.com.png" />][webdevplaylist]
 
 
 
