@@ -34,7 +34,7 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
 [<img align="left" alt="Sails Js" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b4/SailsJS_logo.png" />][webdevplaylist]
 
