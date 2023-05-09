@@ -6,8 +6,7 @@
 
 ## I'm a Web Developer!!
 
-- 🔭 Im currently working on: [This repo][currentlyworkin
-<!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
+- 🔭 Im currently working on: [This repo][currentlyworking]
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
