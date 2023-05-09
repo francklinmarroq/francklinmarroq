@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="francklinmarroq | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png](https://img.icons8.com/color/256/twitter--v1.png)" />][twitter]
+[<img align="left" alt="francklinmarroq | Twitter" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png](https://img.freepik.com/free-icon/twitter_318-674515.jpg)" />][twitter]
 <!-- [<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin] -->
 [<img align="left" alt="francklinmarroq | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
@@ -53,4 +53,4 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
-[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXioPbx-1nXh2Sez0b7tcN_A&feature=share
+[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXjQqH2UXq7pDg8q9Se0tVPP&feature=share
