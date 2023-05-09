@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
 
-## I'm a Game Development learner!!
+## I'm a Web Developer!!
 
-- 🔭 Im currently working on: Learning Microservices Architecture 😂!
+- 🔭 Im currently working on: [This repo][currentlyworking] 😂!i
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
@@ -52,3 +52,4 @@
 [cssplaylist]: #
 [reactplaylist]: #
 [musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXjQqH2UXq7pDg8q9Se0tVPP&feature=share
+[currentlyworking]: https://github.com/francklinmarroq/sistema_invdelsol
