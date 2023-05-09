@@ -6,12 +6,13 @@
 
 ## I'm a Web Developer!!
 
-- 🔭 Im currently working on: [This repo][currentlyworking] 😂!i
+- 🔭 Im currently working on: [This repo][currentlyworkin
 <!-- - 🌱 I’m currently learning Electron apps development. 🤓-->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
-- 🎵 Here's my [playlist][musicplaylist] for coding. 🤣 
+- 🎵 Here's my [playlist][musicplaylist] for coding. 🤣
+- :computer: Here [dotfiles][dotfiles] in case they are useful to you.
 
 ### Connect with me:
 
@@ -53,3 +54,4 @@
 [reactplaylist]: #
 [musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXjQqH2UXq7pDg8q9Se0tVPP&feature=share
 [currentlyworking]: https://github.com/francklinmarroq/sistema_invdelsol
+[dotfiles]: https://github.com/francklinmarroq/dotfiles
