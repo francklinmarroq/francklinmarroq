@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
 
-## I'm a Web Developer!!
+## I'm a Full Stack C# and Web Developer!!
 
 - 🔭 Im currently working on: [This repo][currentlyworking]
 - 👯 I’m looking to collaborate with other content creators and developers.
