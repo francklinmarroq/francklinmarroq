@@ -8,7 +8,7 @@
 
 - 🔭 Im currently working on: [This repo][currentlyworking]
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Learn Unity and create content for my [Youtube Channel][youtube].
+- 🥅 2025 Goals: Learn Coding with the MVVM pattern with C# and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
 - 🎵 Here's my [playlist][musicplaylist] for coding. 🤣
 - :computer: Here [dotfiles][dotfiles] and my [nvim config][nvimcfg] in case they are useful to you.
@@ -35,7 +35,7 @@
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
-[<img align="left" alt="Sails Js" width="26px" src="https://seeklogo.com/images/S/sails-logo-7784E4A0F3-seeklogo.com.png" />][webdevplaylist]
+[<img align="left" alt="Sails Js" width="26px" src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png"/>][csharpdevplaylist]
 
 
 
@@ -48,6 +48,7 @@
 [instagram]: https://www.instagram.com/marroquin_q/
 [linkedin]: https://www.linkedin.com/in/francklin-marroquin-quezada-a09159138/
 [webdevplaylist]: #
+[csharpdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
