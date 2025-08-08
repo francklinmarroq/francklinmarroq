@@ -1,4 +1,4 @@
-### Hi there, I'm Franklin - aka [Marroquin][youtube] 👋
+### Hi there, I'm [Franklin Marroquin][youtube] 👋
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)](https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
