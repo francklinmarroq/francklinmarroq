@@ -52,7 +52,7 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
-[musicplaylist]: https://music.youtube.com/playlist?list=PLcKH1vKkYA2qrLPnrXl_IsQ3wl6Swmf8d&si=qzW7A0HZ1qMmSt8_
+[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhCgpeeMtjZwku2u--Xqmix&si=CfM1oRc2YNfJww49
 [currentlyworking]: https://github.com/francklinmarroq/ProyectoVemar/tree/master
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
 [nvimcfg]: https://github.com/francklinmarroq/nvim-config
