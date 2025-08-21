@@ -30,7 +30,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/304b1d66-e029-4536-b74f-d89c8073a7bc" />][jsplaylist]
+[<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/304b1d66-e029-4536-b74f-d89c8073a7bc" />][jsplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
@@ -52,7 +52,7 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
-[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXjQqH2UXq7pDg8q9Se0tVPP&feature=share
+[musicplaylist]: https://music.youtube.com/playlist?list=PLcKH1vKkYA2qrLPnrXl_IsQ3wl6Swmf8d&si=qzW7A0HZ1qMmSt8_
 [currentlyworking]: https://github.com/francklinmarroq/ProyectoVemar/tree/master
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
 [nvimcfg]: https://github.com/francklinmarroq/nvim-config
