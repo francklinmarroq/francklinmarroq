@@ -11,7 +11,7 @@
 - 🥅 2025 Goals: Learn Coding with the MVVM pattern with C# and create content for my [Youtube Channel][youtube].
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
 - 🎵 Here's my [playlist][musicplaylist] for coding. 🤣
-- :computer: Here [dotfiles][dotfiles] and my [nvim config][nvimcfg] in case they are useful to you.
+- :computer: Here [dotfiles][dotfiles] and in case you want to take a look.
 
 ### Connect with me:
 
