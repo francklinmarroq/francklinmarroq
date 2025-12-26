@@ -25,7 +25,6 @@
 ### Languages and Tools:
 
 
-<!--[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]-->
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -33,7 +32,6 @@
 [<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/304b1d66-e029-4536-b74f-d89c8073a7bc" />][jsplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
 
 
@@ -53,6 +51,6 @@
 [cssplaylist]: #
 [reactplaylist]: #
 [musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhCgpeeMtjZwku2u--Xqmix&si=CfM1oRc2YNfJww49
-[currentlyworking]: https://github.com/francklinmarroq/ProyectoVemar/tree/master
+[currentlyworking]: https://github.com/francklinmarroq/orbis
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
 [nvimcfg]: https://github.com/francklinmarroq/nvim-config
