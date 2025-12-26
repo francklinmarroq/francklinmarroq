@@ -3,7 +3,6 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)](https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
-
 ## I'm a Full Stack Web Developer!!
 
 - 🔭 Im currently working on: [This repo][currentlyworking]
@@ -24,7 +23,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -33,9 +31,6 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
-
-
-
 
 [website]: https://google.com
 [twitter]: https://twitter.com/franmarroquinQ
@@ -50,4 +45,3 @@
 [musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhQMzBv4mqeEyoy7ETA-4xQ&si=1YvfIRP-F2cwzcCA
 [currentlyworking]: https://github.com/francklinmarroq/orbis
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
-[nvimcfg]: https://github.com/francklinmarroq/nvim-config
