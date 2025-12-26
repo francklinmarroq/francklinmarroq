@@ -35,7 +35,7 @@
 [<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
-[<img align="left" alt="Sails Js" width="26px" src="https://www.pinclipart.com/picdir/big/124-1248748_c-sharp-logo-png.png"/>][csharpdevplaylist]
+
 
 
 
