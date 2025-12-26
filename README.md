@@ -38,8 +38,6 @@
 
 
 [website]: https://google.com
-[repo1]: https://github.com/francklinmarroq/Bakers-Adventure
-[repo2]: https://github.com/Marroquin-Software/health-ally-frontend
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ
 [twitch]: https://www.twitch.tv/marroquinq
@@ -49,8 +47,7 @@
 [csharpdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
-[reactplaylist]: #
-[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhCgpeeMtjZwku2u--Xqmix&si=CfM1oRc2YNfJww49
+[musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhQMzBv4mqeEyoy7ETA-4xQ&si=1YvfIRP-F2cwzcCA
 [currentlyworking]: https://github.com/francklinmarroq/orbis
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
 [nvimcfg]: https://github.com/francklinmarroq/nvim-config
