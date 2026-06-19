@@ -1,6 +1,6 @@
 ### Hi there, I'm [Franklin Marroquin][youtube] 👋
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)](https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ)
+[![Youtube]([https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F021%2F460%2F388%2Foriginal%2Fyoutube-logo-free-download-free-png.png&f=1&nofb=1&ipt=ab813a4d185e53b9abe7b9d11798be193b923609e583702c599f2b1d738af85c))](https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
 
 ## I'm a Full Stack Web Developer!!
