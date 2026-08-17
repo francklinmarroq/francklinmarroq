@@ -1,13 +1,13 @@
 ### Hi there, I'm [Franklin Marroquin][youtube] 👋
 
-[![Youtube]([https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F021%2F460%2F388%2Foriginal%2Fyoutube-logo-free-download-free-png.png&f=1&nofb=1&ipt=ab813a4d185e53b9abe7b9d11798be193b923609e583702c599f2b1d738af85c))](https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)](https://twitter.com/franmarroquinQ)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCUuH-HHaorC6HJCiXeZbOrQ?style=social)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/franmarroquinQ)][twitter]
 
 ## I'm a Full Stack Web Developer!!
 
-- 🔭 Im currently working on: [This repo][currentlyworking]
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2025 Goals: Learn Coding with the MVVM pattern with C# and create content for my [Youtube Channel][youtube].
+- 🔭 I'm currently working on: [This repo][currentlyworking]
+- 👯 I'm looking to collaborate with other content creators and developers.
+- 🥅 2026 Goals: Code and found my own software company.
 - ⚡ Fun fact: I play videogames with friends on my [Twitch Channel][twitch].
 - 🎵 Here's my [playlist][musicplaylist] for coding. 🤣
 - :computer: Here [dotfiles][dotfiles] and in case you want to take a look.
@@ -16,32 +16,28 @@
 
 [<img align="left" alt="francklinmarroq | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="francklinmarroq | Twitter" width="22px" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg" />][twitter]
-<!-- [<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin] -->
+[<img align="left" alt="francklinmarroq | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" />][linkedin]
 [<img align="left" alt="francklinmarroq | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/304b1d66-e029-4536-b74f-d89c8073a7bc" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][webdevplaylist]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="PostgresSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 
-[website]: https://google.com
+<br />
+
 [twitter]: https://twitter.com/franmarroquinQ
 [youtube]: https://www.youtube.com/channel/UCUuH-HHaorC6HJCiXeZbOrQ
 [twitch]: https://www.twitch.tv/marroquinq
 [instagram]: https://www.instagram.com/marroquin_q/
-[linkedin]: https://www.linkedin.com/in/francklin-marroquin-quezada-a09159138/
-[webdevplaylist]: #
-[csharpdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
+[linkedin]: https://www.linkedin.com/in/francklin-marroquin-1a555537b/
 [musicplaylist]: https://music.youtube.com/playlist?list=PLljlmwv02fXhQMzBv4mqeEyoy7ETA-4xQ&si=1YvfIRP-F2cwzcCA
 [currentlyworking]: https://github.com/francklinmarroq/orbis
 [dotfiles]: https://github.com/francklinmarroq/dotfiles
